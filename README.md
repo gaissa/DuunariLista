@@ -1,4 +1,4 @@
 DuunariLista
 ============
 
-A listing system (for employees etc.).
+A listing system (for employees or such).
